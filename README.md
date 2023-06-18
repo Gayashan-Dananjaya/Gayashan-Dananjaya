@@ -22,7 +22,7 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayashan-dananjaya&show_icons=true&locale=en" alt="gayashan-dananjaya" /></p>-->
 
 ### GitHub Stats 📈
-<div align="center">
+<!--<div align="center">
   <table width="100%">
     <tbody>
       <tr>
@@ -43,4 +43,8 @@
       </tr>
     </tbody>
   <table>
-<div>
+<div>-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayashan-dananjaya&show_icons=true&locale=en&layout=compact" alt="gayashan-dananjaya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayashan-dananjaya&show_icons=true&locale=en" alt="gayashan-dananjaya" /></p>
+
+
