@@ -5,14 +5,14 @@
 
 - 👨‍💻 All of my projects are available at [https://my-initial-organization.github.io/personal-website/](https://my-initial-organization.github.io/personal-website/)
 
-- 📝 I regularly write articles on [https://medium.com/@gayashandananjaya3](https://medium.com/@gayashandananjaya3)
+<!-- - 📝 I regularly write articles on [https://medium.com/@gayashandananjaya3](https://medium.com/@gayashandananjaya3) -->
 
 - 📫 How to reach me **gayashandananjaya3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gayashan-dananjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayashan-dananjaya" height="30" width="40" /></a>
-<a href="https://medium.com/@gayashandananjaya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gayashandananjaya3" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@gayashandananjaya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gayashandananjaya3" height="30" width="40" /></a> -->
 <!-- <a href="https://www.hackerrank.com/gayashan_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gayashan_d" height="30" width="40" /></a> -->
 </p>
 
